@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "a": {
+      "tag": "forge:storage_blocks/diamond"
+    },
+    "b": {
+      "item": "iron_biplane:golden_biplane"
+    }
+  },
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "result": {
+    "item": "iron_biplane:diamond_biplane"
+  }
+}
