@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "a": {
+      "tag": "forge:gems/diamond"
+    },
+    "b": {
+      "item": "iron_biplane_engines:golden_engine"
+    }
+  },
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "result": {
+    "item": "iron_biplane_engines:diamond_engine"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "item.iron_biplane_engines.copper_engine": "Copper Engine",  
+  "item.iron_biplane_engines.iron_engine": "Iron Engine",
+  "item.iron_biplane_engines.golden_engine": "Golden Engine",
+  "item.iron_biplane_engines.diamond_engine": "Diamond Engine",
+  "item.iron_biplane_engines.netherite_engine": "Netherite Engine",
+  "item.iron_biplane_engines.blatium_engine": "Blatium Engine",
+  "item.iron_biplane_engines.nlium_engine": "Nlium Engine"
+}

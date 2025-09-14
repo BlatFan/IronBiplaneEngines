@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:smithing_transform",
+  "group": "blatium",
+  "template": {
+    "item": "blatium:blatium_upgrade_smithing_template"
+  },
+  "base": {
+    "item": "iron_biplane_engines:netherite_engine"
+  },
+  "addition": {
+    "tag": "forge:ingots/blatium"
+  },
+  "result": {
+    "item": "iron_biplane_engines:blatium_engine"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "blatium"
+    }
+  ]
+}
